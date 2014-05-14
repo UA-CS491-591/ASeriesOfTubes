@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface RequestsViewController : UIViewController
+@interface RequestsViewController : UIViewController <UITextFieldDelegate>
 
 @end
